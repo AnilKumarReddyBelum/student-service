@@ -6,6 +6,8 @@ public class Student {
 
   private String address;
 
+  private String rollNumber;
+
   public Student() {
 
   }
